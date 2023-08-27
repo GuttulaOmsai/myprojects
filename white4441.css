@@ -113,12 +113,12 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url('https://t4.ftcdn.net/jpg/03/97/02/07/240_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg') no-repeat;
+    background:url('preview.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
 
-.home .content{
+.home 
     max-width: 50rem;
 }
 
