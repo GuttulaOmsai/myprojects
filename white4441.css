@@ -119,7 +119,7 @@ header .fa-bars{
 }
 
 .home .content{
-    max-width: 50rem;
+    max-width: 30rem;
 }
 
 .home .content h3{
@@ -132,7 +132,7 @@ header .fa-bars{
 .home .content span{
     font-size: 2.5rem;
     color:var(--pink);
-      position: left;
+     
     padding:0rem 0;
     line-height: 1.5;
 }
