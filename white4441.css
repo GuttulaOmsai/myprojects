@@ -66,7 +66,7 @@ header{
 }
 
 header .logo{
-    font-size: 3rem;
+    font-size: 2rem;
     color:#333;
     font-weight: bolder;
 }
@@ -76,8 +76,8 @@ header .logo span{
 }
 
 header .navbar a{
-    font-size: 2rem;
-    padding:0 1.5rem;
+    font-size: 1rem;
+    padding:1rem;
     color:#666;
 }
 
@@ -86,9 +86,9 @@ header .navbar a:hover{
 }
 
 header .icons a{
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     color:#333;
-    margin-left: 1.5rem;
+    margin-left: 1rem;
 }
 
 header .icons a:hover{
@@ -113,7 +113,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url('https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-125206.jpg?w=740&t=st=1693193212~exp=1693193812~hmac=342869cc0b6fbae04810f313c8d3e47699a23ffb399555765d5c6059e2e3acc3') no-repeat;
+    background:url('https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-852.jpg?w=740&t=st=1693193293~exp=1693193893~hmac=a90d72ce440c25d0620ffadfc25753de26d41b1a5e066c6149b7906aa56f6856') no-repeat;
     background-size: cover;
     background-position: center;
 }
