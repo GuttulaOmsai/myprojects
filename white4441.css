@@ -66,7 +66,7 @@ header{
 }
 
 header .logo{
-    font-size: 2rem;
+    font-size: 3rem;
     color:#333;
     font-weight: bolder;
 }
@@ -76,8 +76,8 @@ header .logo span{
 }
 
 header .navbar a{
-    font-size: 1rem;
-    padding:1rem;
+    font-size: 2rem;
+    padding:0 1.5rem;
     color:#666;
 }
 
@@ -86,9 +86,9 @@ header .navbar a:hover{
 }
 
 header .icons a{
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     color:#333;
-    margin-left: 1rem;
+    margin-left: 1.5rem;
 }
 
 header .icons a:hover{
